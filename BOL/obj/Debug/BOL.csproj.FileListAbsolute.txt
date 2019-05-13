@@ -1,0 +1,6 @@
+C:\Users\Portege\source\repos\Ventas\BOL\bin\Debug\BOL.dll
+C:\Users\Portege\source\repos\Ventas\BOL\bin\Debug\BOL.pdb
+C:\Users\Portege\source\repos\Ventas\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Portege\source\repos\Ventas\BOL\obj\Debug\BOL.dll
+C:\Users\Portege\source\repos\Ventas\BOL\obj\Debug\BOL.pdb
+C:\Users\Portege\source\repos\Ventas\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
